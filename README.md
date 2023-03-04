@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 
 
-- I'am presales :$:
-- I'm specialist with data and business intelligent :data:
+- I'am presales 💰:
+- I'm specialist with data and business intelligent 📈
 - 🤔 I was web developer ...
 - 💬 Ask me about ...
 - I ❤️ to write code.
