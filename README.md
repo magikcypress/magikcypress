@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - I'am presales 💰:
 - I'm specialist with data and business intelligent 📈
-- 🤔 I was web developer ...
+- 🌟 I was web developer ...
 - 💬 Ask me about music
 - I ❤️ to write code.
 - Pronouns: cyp :ghost:
