@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 🌟 I was web developer ...
 - 💬 Ask me about music
 - I ❤️ to write code.
-- Pronouns: cyp :ghost:
+- :ghost: Pronouns: cyp
 - ⚡ Fun fact: Love sticker
+- 🪴Grow up between 331 PPM & 369 PPM
 
 My GitHub stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
 
